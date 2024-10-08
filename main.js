@@ -31,4 +31,4 @@ fahrenheit = 77
 celsius = (fahrenheit - 32)*5/9
 console.log(celsius)
 
-console.log( fahrenheit, "degrees Fahrenheit is", celsius, "degrees celsius")
+console.log( fahrenheit + " degrees Fahrenheit is " + celsius + " degrees celsius.")
